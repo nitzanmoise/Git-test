@@ -1,0 +1,11 @@
+.wrapper > div{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position: absolute;
+    border-radius: 50%;
+    transition: all 8s;
+}
+body{
+    background-color: beige;
+}
